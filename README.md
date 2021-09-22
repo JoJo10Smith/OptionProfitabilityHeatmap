@@ -21,14 +21,6 @@ If the current strike price is below the expected underlying price then option e
 
 ![Second Example Image](https://github.com/JoJo10Smith/OptionProfitabilityHeatmap/blob/main/Images/Second%20picture.JPG)
 
-***UPDATES***
 
-1) It was suggested that I add lines that divide the graph into profitable and non-profitable option strike -underlying price pairs. That suggestion has been implemented below
-
-![Added profitability lines](https://github.com/JoJo10Smith/OptionProfitabilityHeatmap/blob/main/Images/added_line.JPG)
-
-2) I added put option capability. This means that in addition to the previous updates added, I can now view the best put options to buy given my market expectations.
-
-![Put option capability](https://github.com/JoJo10Smith/OptionProfitabilityHeatmap/blob/main/Images/Put%20options.JPG)
 
 If you have any questions or suggestions please reach me at: jsmith58@bryant.edu
